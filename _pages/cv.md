@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BASc in Cognitive Science (Hons), McGill University, 2015
+* MSc in Medical Statistics, London School of Hygiene and Tropical Medicine, 2016
+* PhD in Epidemiology, London School of Hygiene and Tropical Medicine, 2022 (expected)
 
 Work experience
 ======
